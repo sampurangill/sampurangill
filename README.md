@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Sam Gill
 
-<!--
-**sampurangill/sampurangill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity graduate with hands-on experience in penetration testing, network analysis, and security frameworks, including NIST and ISO 27001.
 
-Here are some ideas to get you started:
+## What I Do
+- Web Application Penetration Testing (OWASP Top 10)
+- Vulnerability Assessment & Risk Analysis
+- Security Policy & ISMS Development
+- Building hands-on labs (SIEM, Active Directory, etc.)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Web Application Penetration Test  
+- Internal Network Penetration Test  
+- Information Security Management System (ISMS)
+
+## Skills
+- Tools: Burp Suite, Metasploit, Nmap, Wireshark
+- Concepts: Vulnerability Analysis, Exploitation, Incident Response
+- Frameworks: NIST, ISO 27001, OWASP
+
+## Currently Working On
+- Building a SIEM lab using Splunk
+- Expanding hands-on detection and threat analysis skills
