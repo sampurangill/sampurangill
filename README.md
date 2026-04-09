@@ -1,4 +1,4 @@
-# Hi, I'm Sam Gill
+# Hi, I'm Sampuran Gill
 
 Cybersecurity graduate with hands-on experience in penetration testing, network analysis, and security frameworks, including NIST and ISO 27001.
 
