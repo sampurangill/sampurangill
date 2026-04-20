@@ -1,4 +1,4 @@
-# 👋 Sampuran Gill
+# Sampuran Gill
 
 Cybersecurity Graduate | Security-Focused Developer
 
@@ -22,7 +22,7 @@ A Python-based security tool that analyzes authentication logs, detects suspicio
 
 ---
 
-## 🧪 Other Projects
+## 🖥️ Other Projects
 
 ### 🕵️ Web Application Penetration Test
 
