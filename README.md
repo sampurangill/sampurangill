@@ -18,7 +18,7 @@ A Python-based security tool that analyzes authentication logs, detects suspicio
 - Supports user-uploaded logs for dynamic analysis
 - Utilizes regular expressions and log parsing techniques for analysis
 
-👉 [View Project](LINK)
+👉 [View Project](https://github.com/sampurangill/ai-security-log-analyzer)
 
 ---
 
@@ -36,21 +36,21 @@ Designed and documented a comprehensive ISMS aligned with NIST and ISO/IEC 27001
 - Security control recommendations
 - GDPR, CPRA, PCI DSS, and DPDPA compliance considerations
 
-👉 [View Project](LINK)
+👉 [View Project](https://github.com/sampurangill/information-security-management-system)
 
 ---
 
 ## 🌐 Internal Network Penetration Test
 Conducted enumeration, vulnerability analysis, and exploitation within a controlled lab environment using tools such as Nmap and Metasploit to identify security weaknesses and remediation opportunities.
 
-👉 [View Project](LINK)
+👉 [View Project](https://github.com/sampurangill/internal-network-penetration-test)
 
 ---
 
 ## 🕵️ Web Application Penetration Test
 Performed a security assessment targeting common OWASP Top 10 vulnerabilities, including authentication flaws, SQL injection, command injection, and input validation weaknesses.
 
-👉 [View Project](LINK)
+👉 [View Project](https://github.com/sampurangill/web-application-penetration-test)
 
 ---
 
