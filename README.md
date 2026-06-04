@@ -45,24 +45,24 @@ Performed a security assessment targeting common OWASP Top 10 vulnerabilities, i
 
 ### Methodology
 
-1. # Information Gathering
+1. #### Information Gathering
 
   - Service enumeration and application mapping
   - Vulnerability Analysis
 
-2. # Scanning 
+2. #### Scanning 
    
   - Manual validation using Burp Suite
     
-3. # Exploitation
+3. #### Exploitation
 
   - Verified vulnerabilities through real-world attack techniques
 
-4. # Post-Exploitation
+4. #### Post-Exploitation
 
   - Demonstrated data access and system compromise scenarios
 
-5. # Reporting
+5. #### Reporting
 
   - Documented findings with CVSS scoring, root cause analysis, and remediation steps
 
