@@ -40,17 +40,40 @@ Designed and documented a comprehensive ISMS aligned with NIST and ISO/IEC 27001
 
 ---
 
+## 🕵️ Web Application Penetration Test
+Performed a security assessment targeting common OWASP Top 10 vulnerabilities, including authentication flaws, SQL injection, command injection, and input validation weaknesses.
+
+### Methodology
+
+1. # Information Gathering
+
+  - Service enumeration and application mapping
+  - Vulnerability Analysis
+
+2. # Scanning 
+   
+  - Manual validation using Burp Suite
+    
+3. # Exploitation
+
+  - Verified vulnerabilities through real-world attack techniques
+
+4. # Post-Exploitation
+
+  - Demonstrated data access and system compromise scenarios
+
+5. # Reporting
+
+  - Documented findings with CVSS scoring, root cause analysis, and remediation steps
+
+👉 [View Project](https://github.com/sampurangill/web-application-penetration-test)
+
+---
+
 ## 🌐 Internal Network Penetration Test
 Conducted enumeration, vulnerability analysis, and exploitation within a controlled lab environment using tools such as Nmap and Metasploit to identify security weaknesses and remediation opportunities.
 
 👉 [View Project](https://github.com/sampurangill/internal-network-penetration-test)
-
----
-
-## 🕵️ Web Application Penetration Test
-Performed a security assessment targeting common OWASP Top 10 vulnerabilities, including authentication flaws, SQL injection, command injection, and input validation weaknesses.
-
-👉 [View Project](https://github.com/sampurangill/web-application-penetration-test)
 
 ---
 
@@ -60,7 +83,7 @@ Performed a security assessment targeting common OWASP Top 10 vulnerabilities, i
 Log Analysis · Vulnerability Management · Incident Response · Risk Management · Security Monitoring · Security Documentation
 
 ### Security Tools & Technologies
-Python · PostgreSQL · Wireshark · Nmap · Metasploit · Burp Suite · Git
+Python · Cloudflare · PostgreSQL · Nmap · Metasploit · Burp Suite · Git
 
 ### Systems & Networking
 Windows · Linux · TCP/IP · Firewalls · VPNs · Network Security
