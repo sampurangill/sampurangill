@@ -1,111 +1,112 @@
 # Sampuran Gill
 
-Cybersecurity Graduate | Security Operations & Governance
+**Cybersecurity Graduate | CompTIA Security+ | Security Analysis | Application Security | Log Analysis**
 
-I build hands-on cybersecurity projects focused on security operations, risk management, monitoring, and vulnerability analysis. My work combines technical security concepts with practical implementation across log analysis, network security, governance frameworks, and incident response planning.
+I’m a cybersecurity graduate from the University of Southern California with CompTIA Security+ and hands-on experience across technical support, web security, log analysis, access management, vulnerability assessment, and security documentation.
 
----
-
-# 🚀 Highlight Projects
-
-## 🔐 AI Security Log Analyzer
-A Python-based security tool that analyzes authentication logs, detects suspicious activity, and visualizes threats through an interactive dashboard.
-
-- Built from scratch using Python
-- Detects brute-force login attempts and suspicious IP behavior
-- Includes rule-based threat classification and severity labeling
-- Interactive dashboard with Streamlit and data visualization
-- Supports user-uploaded logs for dynamic analysis
-- Utilizes regular expressions and log parsing techniques for analysis
-
-👉 [View Project](https://github.com/sampurangill/ai-security-log-analyzer)
+My work focuses on practical security analysis: reviewing logs, identifying suspicious activity, testing web applications, documenting findings, and clearly explaining technical risk. I’m continuing to build projects that strengthen my skills in application security, security operations, penetration testing, and risk management.
 
 ---
 
-## 📄 Information Security Management System (ISMS)
-Designed and documented a comprehensive ISMS aligned with NIST and ISO/IEC 27001 frameworks, including risk assessments, asset management, incident response procedures, vulnerability management strategies, security policies, and compliance considerations.
+## Highlight Projects
 
-### Key Areas Covered
-- Risk assessments and risk register development
-- Asset identification and classification
-- Incident response planning and documentation
-- Vulnerability management strategies
+### Security Log Analyzer
+
+A Python-based security tool that ingests, parses, and analyzes log data to identify suspicious activity and support security investigations.
+
+**Key Features**
+- Parses uploaded log files and extracts relevant security events
+- Identifies suspicious IP activity, failed login patterns, and abnormal behavior
+- Applies rule-based detection logic to classify events and severity
+- Generates visualizations and structured summaries for analysis
+- Supports investigation workflows through clear reporting outputs
+
+**Skills Demonstrated:** Python, log analysis, threat detection, regular expressions, data visualization, security reporting
+
+[View Project](https://github.com/sampurangill/ai-security-log-analyzer)
+
+---
+
+### Web Application Penetration Test
+
+A professional-style web application security assessment focused on identifying and documenting OWASP Top 10 vulnerabilities.
+
+**Assessment Focus**
+- Information gathering and application mapping
+- Manual vulnerability validation using Burp Suite and supporting tools
+- Testing for SQL injection, command injection, remote file inclusion, XXE, authentication flaws, and input validation weaknesses
+- Documentation of exploit evidence, root cause, business impact, CVSS scoring, and remediation guidance
+
+**Skills Demonstrated:** Web application security, OWASP Top 10, Burp Suite, Nmap, vulnerability assessment, remediation reporting
+
+[View Project](https://github.com/sampurangill/web-application-penetration-test)
+
+---
+
+### Internal Network Penetration Test
+
+A controlled internal network security assessment focused on enumeration, vulnerability validation, exploitation paths, and remediation planning.
+
+**Assessment Focus**
+- Network reconnaissance and service enumeration
+- Vulnerability identification and validation
+- Exploitation path documentation
+- Privilege escalation research
+- Professional reporting with findings, impact, root cause, and remediation steps
+
+**Skills Demonstrated:** Kali Linux, Nmap, Metasploit, network security, vulnerability analysis, privilege escalation concepts, technical reporting
+
+[View Project](https://github.com/sampurangill/internal-network-penetration-test)
+
+---
+
+### Information Security Management System (ISMS)
+
+A security governance project documenting an ISO/IEC 27001 and NIST-aligned information security management system for a simulated organization.
+
+**Key Areas Covered**
+- Risk assessment and risk register development
+- Security policy documentation
+- Incident response planning
 - Patch management procedures
-- Security monitoring and continuous review concepts
-- Phishing awareness and email security policies
-- Security control recommendations
-- GDPR, CPRA, PCI DSS, and DPDPA compliance considerations
+- Access control and asset management concepts
+- Security awareness and phishing policy considerations
+- Control mapping and remediation recommendations
 
-👉 [View Project](https://github.com/sampurangill/information-security-management-system)
+**Skills Demonstrated:** NIST, ISO/IEC 27001, risk management, security documentation, incident response planning, governance
 
----
-
-## 🕵️ Web Application Penetration Test
-Performed a security assessment targeting common OWASP Top 10 vulnerabilities, including authentication flaws, SQL injection, command injection, and input validation weaknesses.
-
-### Methodology
-
-1. #### Information Gathering
-
-  - Service enumeration and application mapping
-  - Vulnerability Analysis
-
-2. #### Scanning 
-   
-  - Manual validation using Burp Suite
-    
-3. #### Exploitation
-
-  - Verified vulnerabilities through real-world attack techniques
-
-4. #### Post-Exploitation
-
-  - Demonstrated data access and system compromise scenarios
-
-5. #### Reporting
-
-  - Documented findings with CVSS scoring, root cause analysis, and remediation steps
-
-👉 [View Project](https://github.com/sampurangill/web-application-penetration-test)
+[View Project](https://github.com/sampurangill/information-security-management-system)
 
 ---
 
-## 🌐 Internal Network Penetration Test
-Conducted enumeration, vulnerability analysis, and exploitation within a controlled lab environment using tools such as Nmap and Metasploit to identify security weaknesses and remediation opportunities.
+## Technical Skills
 
-👉 [View Project](https://github.com/sampurangill/internal-network-penetration-test)
+### Security Analysis
+Log Analysis · Vulnerability Assessment · Threat Detection · Incident Response Fundamentals · Security Documentation · Risk Assessment
 
----
+### Application & Web Security
+OWASP Top 10 · Authentication Flaws · Access Control Issues · Injection Risks · Burp Suite · Web Application Testing
 
-# 🛠️ Skills
-
-### Security Operations & Governance
-Log Analysis · Vulnerability Management · Incident Response · Risk Management · Security Monitoring · Security Documentation
-
-### Security Tools & Technologies
-Python · Cloudflare · PostgreSQL · Nmap · Metasploit · Burp Suite · Git
+### Tools & Technologies
+Python · Bash · PostgreSQL · Cloudflare · Nmap · Metasploit · Git/GitHub · Streamlit · pandas · regex
 
 ### Systems & Networking
-Windows · Linux · TCP/IP · Firewalls · VPNs · Network Security
+Windows · Linux · macOS · TCP/IP · DNS · HTTP/HTTPS · Firewalls · VPNs
 
-### Frameworks & Standards
-NIST · ISO/IEC 27001 · OWASP Top 10 · CIA Triad
-
----
-
-# 📈 Current Focus
-
-- Expanding hands-on experience in security operations and monitoring
-- Building practical cybersecurity and log analysis tools
-- Developing skills in risk management, governance, and vulnerability management
-- Continuing to grow through real-world cybersecurity projects and labs
+### Frameworks & Concepts
+NIST · ISO/IEC 27001 · CIA Triad · CVSS · ISMS · Secure SDLC Fundamentals
 
 ---
 
-# 📬 Connect With Me
+## Current Focus
 
-- LinkedIn: www.linkedin.com/in/sampuran-gill-7a8472352
+- Building stronger hands-on experience in application security and vulnerability analysis
+- Improving security investigation and log analysis workflows
+- Developing clearer technical reporting and remediation documentation
+- Continuing to build practical cybersecurity projects that reflect real-world security work
 
 ---
 
-Open to entry-level cybersecurity, security operations, governance, risk, and technical security roles.
+## Connect With Me
+
+**LinkedIn:** [linkedin.com/in/sampuran-gill-7a8472352](https://www.linkedin.com/in/sampuran-gill-7a8472352)  
