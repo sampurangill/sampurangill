@@ -10,20 +10,22 @@ My work focuses on practical security analysis: reviewing logs, identifying susp
 
 ## Highlight Projects
 
-### Security Log Analyzer
+### Information Security Management System (ISMS)
 
-A Python-based security tool that ingests, parses, and analyzes log data to identify suspicious activity and support security investigations.
+A security governance project documenting an ISO/IEC 27001 and NIST-aligned information security management system for a simulated organization.
 
-**Key Features**
-- Parses uploaded log files and extracts relevant security events
-- Identifies suspicious IP activity, failed login patterns, and abnormal behavior
-- Applies rule-based detection logic to classify events and severity
-- Generates visualizations and structured summaries for analysis
-- Supports investigation workflows through clear reporting outputs
+**Key Areas Covered**
+- Risk assessment and risk register development
+- Security policy documentation
+- Incident response planning
+- Patch management procedures
+- Access control and asset management concepts
+- Security awareness and phishing policy considerations
+- Control mapping and remediation recommendations
 
-**Skills Demonstrated:** Python, log analysis, threat detection, regular expressions, data visualization, security reporting
+**Skills Demonstrated:** NIST, ISO/IEC 27001, risk management, security documentation, incident response planning, governance
 
-[View Project](https://github.com/sampurangill/ai-security-log-analyzer)
+[View Project](https://github.com/sampurangill/information-security-management-system)
 
 ---
 
@@ -40,6 +42,23 @@ A professional-style web application security assessment focused on identifying 
 **Skills Demonstrated:** Web application security, OWASP Top 10, Burp Suite, Nmap, vulnerability assessment, remediation reporting
 
 [View Project](https://github.com/sampurangill/web-application-penetration-test)
+
+---
+
+### Security Log Analyzer
+
+A Python-based security tool that ingests, parses, and analyzes log data to identify suspicious activity and support security investigations.
+
+**Key Features**
+- Parses uploaded log files and extracts relevant security events
+- Identifies suspicious IP activity, failed login patterns, and abnormal behavior
+- Applies rule-based detection logic to classify events and severity
+- Generates visualizations and structured summaries for analysis
+- Supports investigation workflows through clear reporting outputs
+
+**Skills Demonstrated:** Python, log analysis, threat detection, regular expressions, data visualization, security reporting
+
+[View Project](https://github.com/sampurangill/ai-security-log-analyzer)
 
 ---
 
@@ -60,25 +79,6 @@ A controlled internal network security assessment focused on enumeration, vulner
 
 ---
 
-### Information Security Management System (ISMS)
-
-A security governance project documenting an ISO/IEC 27001 and NIST-aligned information security management system for a simulated organization.
-
-**Key Areas Covered**
-- Risk assessment and risk register development
-- Security policy documentation
-- Incident response planning
-- Patch management procedures
-- Access control and asset management concepts
-- Security awareness and phishing policy considerations
-- Control mapping and remediation recommendations
-
-**Skills Demonstrated:** NIST, ISO/IEC 27001, risk management, security documentation, incident response planning, governance
-
-[View Project](https://github.com/sampurangill/information-security-management-system)
-
----
-
 ## Technical Skills
 
 ### Security Analysis
@@ -88,7 +88,7 @@ Log Analysis · Vulnerability Assessment · Threat Detection · Incident Respons
 OWASP Top 10 · Authentication Flaws · Access Control Issues · Injection Risks · Burp Suite · Web Application Testing
 
 ### Tools & Technologies
-Python · Bash · PostgreSQL · Cloudflare · Nmap · Metasploit · Git/GitHub · Streamlit · pandas · regex
+Python · Bash · PostgreSQL · Nmap · Metasploit · Git/GitHub · Streamlit · pandas · regex
 
 ### Systems & Networking
 Windows · Linux · macOS · TCP/IP · DNS · HTTP/HTTPS · Firewalls · VPNs
