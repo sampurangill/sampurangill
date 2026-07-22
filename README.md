@@ -109,4 +109,4 @@ NIST · ISO/IEC 27001 · CIA Triad · CVSS · ISMS · Secure SDLC Fundamentals
 
 ## Connect With Me
 
-**LinkedIn:** [linkedin.com/in/sampuran-gill-7a8472352](https://www.linkedin.com/in/sampuran-gill-7a8472352)  
+**LinkedIn:** [linkedin.com/in/sampuran-gill](https://www.linkedin.com/in/sampuran-gill)  
